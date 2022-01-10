@@ -1,9 +1,14 @@
 ### About me
-- 🧑‍💻 I am a full-stack developer with three years of professional experience in Drupal development and a passion for JavaScript.
-- 🤔 I am passionate about learning new techniques, optimizing and developing applications, and automating workflows. 
-- 🏐 As a dedicated and reliable team player, I look forward to contributing my skills in motivated, agile teams. 
-- 🌱 I’m currently learning more about Typescript & Testing
-- 😄 Pronouns: she/her
+ 🧑‍💻 I am a full-stack developer with three years of professional experience in Drupal development and a passion for JavaScript.
+ 
+ 🤔 I am passionate about learning new techniques, optimizing and developing applications, and automating workflows. 
+ 
+ 🏐 As a dedicated and reliable team player, I look forward to contributing my skills in motivated, agile teams. 
+ 
+ 🌱 I’m currently learning more about Typescript & Testing
+ 
+ 😄 Pronouns: she/her
+ 
 
 
 
