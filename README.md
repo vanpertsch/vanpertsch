@@ -3,7 +3,7 @@
 
  ▶︎ I am a full-stack developer with three years of professional experience in Drupal development and a passion for JavaScript.
  
- ▷ I am passionate about learning new techniques, optimizing and developing applications, and automating workflows. 
+ ▷ I am enthusiastic about learning new techniques, optimizing and developing applications, and automating workflows. 
  
  ▶︎  As a dedicated and reliable team player, I look forward to contribute my skills in motivated, agile teams. 
  
