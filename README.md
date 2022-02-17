@@ -31,7 +31,7 @@
 <details open>
 <summary></summary>
   
- [![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=302d2d&logo=figma&logoColor=F24E1E)](#) 
+ [![nextcloud Badge](https://img.shields.io/badge/-Nextcloud-0082C9?style=for-the-badge&labelColor=302d2d&logo=nextcloud&logoColor=0082C9)](#)   [![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=302d2d&logo=figma&logoColor=F24E1E)](#) 
  [![Git Badge](https://img.shields.io/badge/-Git-F24E1E?style=for-the-badge&labelColor=302d2d&logo=git&logoColor=F24E1E)](#)  [![SOURCETREE Badge](https://img.shields.io/badge/-Sourcetree-0052CC?style=for-the-badge&labelColor=f7efef&logo=sourcetree&logoColor=0052CC)](#)  [![Postman Badge](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&labelColor=302d2d&logo=postman&logoColor=FF6C37)](#) [![Cypress Badge](https://img.shields.io/badge/-cypress-17202C?style=for-the-badge&labelColor=f7efef&logo=cypress&logoColor=17202C)](#)  [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&labelColor=f7efef&logo=github&logoColor=181717)](#)  [![GitLab Badge](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&labelColor=302d2d&logo=gitlab&logoColor=FCA121)](#)  [![Slack Badge](https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&labelColor=f7efef&logo=slack&logoColor=4A154B)](#)
   
 </details>
