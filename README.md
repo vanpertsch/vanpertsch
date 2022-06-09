@@ -7,7 +7,7 @@
  
  ▶︎  As a dedicated and reliable team player, I look forward to contribute my skills in motivated, agile teams. 
  
- ▷ I’m currently learning more about Typescript & Testing
+ ▷ I’m currently learning more about Typescript, Testing & Accessibility.
 
 
 
